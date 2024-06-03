@@ -25,8 +25,8 @@
 1. Клонируйте репозиторий:
 
 ```sh
-git clone https://github.com/virgilwi/mobile-bank.git
-cd mobile-bank
+git clone https://github.com/virgilwi/Mobile-bank.git
+cd Mobile-bank
 ```
 2.1. Использование Docker
 
